@@ -9,6 +9,7 @@ function App() {
       <Numero />
       <h1>ta ligado</h1>
       <h5>e nois kkkkk</h5>
+      <h6>mentira</h6>
       <Botao />
     </div>
   );
