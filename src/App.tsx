@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Numero />
       <h1>ta ligado</h1>
+      <h5>e nois kkkkk</h5>
       <Botao />
     </div>
   );
